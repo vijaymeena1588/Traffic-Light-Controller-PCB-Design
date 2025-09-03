@@ -1,1 +1,2 @@
 # PCB_Implement
+Developed a proof-of-concept traffic signal controller using Atmega328P microcontroller, RGB LEDs, and a seven-segment countdown timer. Designed schematic diagrams and created a PCB layout using Autodesk Eagle, followed by Gerber file generation for fabrication. Successfully implemented the circuit to simulate real-world traffic signal operation. My role included microcontroller programming, PCB design, and hardware testing. The project outcome demonstrated efficient traffic control automation with a reliable and cost-effective PCB-based solution.
