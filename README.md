@@ -18,3 +18,17 @@ The following Eagle libraries (`.lbr` files) are used in this project:
 - **PC_Switch_1437566-3.lbr** – Pushbutton switch
 
 These libraries were added to support the schematic symbols, footprints, and 3D packages required in the PCB design.
+
+## Hardware Block Diagram
+
+The following block diagram represents the overall design of the hardware:
+
+![Hardware Block Diagram](Hardware%20Block%20Diagram.png)
+
+---
+
+## Hardware Layout with Sections
+
+This image highlights the different sections of the hardware on the PCB:
+
+![Hardware Image with sections](Hardware%20Image%20with%20sections.png)
