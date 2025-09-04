@@ -75,6 +75,67 @@ Custom and third-party Eagle libraries were used to support the required compone
 
 ---
 
+# 🛠️ PCB Component List
+
+This repository contains the Bill of Materials (BOM) for the PCB design. Below is the categorized list of components with their values, packages, and designators.
+
+---
+
+## 🔌 Capacitors
+| Quantity | Value  | Designators                                   | Package                      |
+|----------|--------|-----------------------------------------------|------------------------------|
+| 10       | 0.1µF  | C1, C4, C6, C9, C10, C12, C14, C15, C16, C17 | 0603                         |
+| 2        | 10µF   | C5, C13                                      | 0603                         |
+| 2        | 22pF   | C7, C8                                       | 0603                         |
+| 1        | 22µF   | C11                                          | 0603                         |
+| 2        | 100µF  | C2, C3                                       | CPOL-RADIAL-2.5MM-6.5MM      |
+
+---
+
+## 🎛️ Resistors
+| Quantity | Value | Designators                       | Package |
+|----------|-------|-----------------------------------|---------|
+| 2        | 0Ω    | R15, R17                         | 0603    |
+| 6        | 1kΩ   | R12, R13, R14, R16, R18, R19     | 0603    |
+| 4        | 2kΩ   | R1, R2, R3, R4                   | 0603    |
+| 2        | 10kΩ  | R20, R21                         | 0603    |
+| 7        | 330Ω  | R5, R6, R7, R8, R9, R10, R11     | 0603    |
+
+---
+
+## 🖥️ Integrated Circuits (ICs) & Semiconductors
+| Quantity | Component                  | Designator | Package   |
+|----------|-----------------------------|------------|-----------|
+| 1        | ATmega328-AU Microcontroller | U3         | TQFP-32   |
+| 1        | CD4511BE BCD-to-7-Segment Decoder | U2 | PDIP-16   |
+| 1        | L293D Push-Pull Driver      | IC2        | DIL16     |
+| 1        | 7806DT Voltage Regulator    | IC1        | TO-252    |
+| 1        | SS14 Schottky Diode         | D1         | SMA-DIODE |
+
+---
+
+## 🔌 Connectors & Sockets
+| Quantity | Component             | Designator  | Package                        |
+|----------|------------------------|-------------|--------------------------------|
+| 1        | DC Power Jack          | PWR         | GCT DCJ200-05-A-XX-X_REVA      |
+| 1        | Pin Header (Debug/Prog)| DEBUG/PROG  | MA04-2                         |
+| 2        | Terminal Block         | CON1, CON2  | 282836-2                       |
+
+---
+
+## 🛠️ Other Components
+| Quantity | Component          | Designator         | Package              |
+|----------|--------------------|--------------------|----------------------|
+| 1        | RGB LED            | RGBLED             | LED-TRICOLOR-5050    |
+| 1        | White LED          | D2                 | LEDC1608X65N         |
+| 1        | 16MHz Crystal      | Y1                 | HC49US               |
+| 2        | Tactile Switch     | SW1, SW2           | 1437566-3            |
+| 1        | 7-Segment Display  | U1                 | SC52-11HWA           |
+| 1        | Potentiometer      | POT                | TRIM_US-S64W (S64W)  |
+| 4        | Mounting Holes     | H1, H2, H3, H4     | MOUNT-HOLE2.8        |
+
+---
+
 ## Conclusion
 This project successfully demonstrates the use of **PCB design techniques, embedded system integration, and hardware testing** to create a functional traffic signal controller.  
 The outcome highlights the ability to merge **microcontroller programming with practical PCB implementation**, resulting in a **reliable, scalable, and cost-effective hardware prototype** for traffic management applications.  
