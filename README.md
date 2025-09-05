@@ -137,27 +137,18 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 ![Board Components](Board_components.png)
 
 ---
+
+## Final Board Design
+![Final Board Design](Final_Board_Design.png)
+
+---
 ## Top Side of Board
 ![Top Side of Board](Top_Side_of_Board.png)
 
 ---
 
-
-
-## Board DXF View
-![Board DXF](Board_dxf.png)
-
----
-
-
 ## Bottom Side of Board
 ![Bottom Side of Board](Bottom_Side_of_Board.png)
-
----
-
-## Final Board Design
-![Final Board Design](Final_Board_Design.png)
-
 
 ---
 
