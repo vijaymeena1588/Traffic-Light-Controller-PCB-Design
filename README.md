@@ -58,6 +58,9 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 
 ---
 
+### Schematic Layout  
+![Schematic Layout](Schematic_Layout.png)  
+
 ## ATmega328 MCU Circuit
 ![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
 
