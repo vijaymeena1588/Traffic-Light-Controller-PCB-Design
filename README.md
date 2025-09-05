@@ -38,6 +38,14 @@ The entire workflow included schematic capture, PCB layout routing, ERC/DRC vali
 - Cost-effective solution with minimal component count and optimized PCB area.  
 
 ---
+
+## Documentation / References  
+
+- [74HC4511 Datasheet](74HC4511.pdf)  
+- [ATmega328 Datasheet](Atmega328.pdf)  
+- [L293D Datasheet](L293D.pdf)  
+
+---
 ## Eagle Libraries Used
 Custom and third-party Eagle libraries were used to support the required components:
 
