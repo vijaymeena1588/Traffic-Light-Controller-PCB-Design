@@ -78,9 +78,8 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 
 ---
 
-## ATmega328 MCU Circuit
-![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
-
+## Power LED Circuit
+![Power LED Circuit](Power_LED_Circuit.png)
 
 ---
 
@@ -89,13 +88,17 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 
 ---
 
-## Potentiometer Circuit
-![Potentiometer Circuit](Potentiometer_Circuit.png)
+## ATmega328 MCU Circuit
+![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
+
+
 
 ---
 
-## Power LED Circuit
-![Power LED Circuit](Power_LED_Circuit.png)
+## Potentiometer Circuit
+![Potentiometer Circuit](Potentiometer_Circuit.png)
+
+
 
 
 
