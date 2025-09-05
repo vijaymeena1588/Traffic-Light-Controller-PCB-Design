@@ -38,21 +38,20 @@ The entire workflow included schematic capture, PCB layout routing, ERC/DRC vali
 - Cost-effective solution with minimal component count and optimized PCB area.  
 
 ---
-
 ## Eagle Libraries Used
 Custom and third-party Eagle libraries were used to support the required components:
 
-- **PC_CON_DC_Power_Jack.lbr** – DC power input connector  
-- **PC_CON_ScrewTerminal_2P_5mm.lbr** – Screw terminal (2-pin, 5mm pitch)  
-- **PC_Capacitor_0603.lbr** – SMD capacitors (0603 package)  
-- **PC_IC_ATMEGA328-AU.lbr** – ATmega328 (TQFP package)  
-- **PC_IC_ATMEGA328P-AU.lbr** – ATmega328P (TQFP package)  
-- **PC_IC_CD4511BE.lbr** – 7-segment display driver IC  
-- **PC_IC_L7805ABD2T-TR.lbr** – 7805 voltage regulator (D2PAK package)  
-- **PC_IC_L7805_TO252.lbr** – 7805 voltage regulator (TO-252 package)  
-- **PC_LED-7-SegmentDisplay.lbr** – 7-segment LED display  
-- **PC_Resistor_0603.lbr** – SMD resistors (0603 package)  
-- **PC_Switch_1437566-3.lbr** – Pushbutton switch  
+- [**PC_CON_DC_Power_Jack.lbr**](PC_CON_DC_Power_Jack.lbr) – DC power input connector  
+- [**PC_CON_ScrewTerminal_2P_5mm.lbr**](PC_CON_ScrewTerminal_2P_5mm.lbr) – Screw terminal (2-pin, 5mm pitch)  
+- [**PC_Capacitor_0603.lbr**](PC_Capacitor_0603.lbr) – SMD capacitors (0603 package)  
+- [**PC_IC_ATMEGA328-AU.lbr**](PC_IC_ATMEGA328-AU.lbr) – ATmega328 (TQFP package)  
+- [**PC_IC_ATMEGA328P-AU.lbr**](PC_IC_ATMEGA328P-AU.lbr) – ATmega328P (TQFP package)  
+- [**PC_IC_CD4511BE.lbr**](PC_IC_CD4511BE.lbr) – 7-segment display driver IC  
+- [**PC_IC_L7805ABD2T-TR.lbr**](PC_IC_L7805ABD2T-TR.lbr) – 7805 voltage regulator (D2PAK package)  
+- [**PC_IC_L7805_TO252.lbr**](PC_IC_L7805_TO252.lbr) – 7805 voltage regulator (TO-252 package)  
+- [**PC_LED-7-SegmentDisplay.lbr**](PC_LED-7-SegmentDisplay.lbr) – 7-segment LED display  
+- [**PC_Resistor_0603.lbr**](PC_Resistor_0603.lbr) – SMD resistors (0603 package)  
+- [**PC_Switch_1437566-3.lbr**](PC_Switch_1437566-3.lbr) – Pushbutton switch  
 
 ---
 
