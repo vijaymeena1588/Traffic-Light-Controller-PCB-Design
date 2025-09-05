@@ -58,8 +58,20 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 
 ---
 
+## Hardware Block Diagram
+![Hardware Block Diagram](Hardware%20Block%20Diagram.png)
+
+---
+
+## Hardware Layout with Sections
+![Hardware Image with Sections](Hardware%20Image%20with%20sections.png)
+
+---
+
 ### Schematic Layout  
 ![Schematic Layout](Schematic_Layout.png)  
+
+---
 
 ## ATmega328 MCU Circuit
 ![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
@@ -93,16 +105,6 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 
 ## Final Schematic Circuit
 ![Final Schematic Circuit](Final_Schematic_Circuit.png)
-
----
-
-## Hardware Block Diagram
-![Hardware Block Diagram](Hardware%20Block%20Diagram.png)
-
----
-
-## Hardware Layout with Sections
-![Hardware Image with Sections](Hardware%20Image%20with%20sections.png)
 
 ---
 
