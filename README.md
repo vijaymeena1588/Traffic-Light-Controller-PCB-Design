@@ -52,6 +52,44 @@ Custom and third-party Eagle libraries were used to support the required compone
 - [**PC_LED-7-SegmentDisplay.lbr**](PC_LED-7-SegmentDisplay.lbr) – 7-segment LED display  
 - [**PC_Resistor_0603.lbr**](PC_Resistor_0603.lbr) – SMD resistors (0603 package)  
 - [**PC_Switch_1437566-3.lbr**](PC_Switch_1437566-3.lbr) – Pushbutton switch  
+# Traffic Light Controller PCB Design
+
+Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs, and a seven-segment countdown timer.
+
+---
+
+## ATmega328 MCU Circuit
+![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
+
+---
+
+## Board Components
+![Board Components](Board_components.png)
+
+---
+
+## Board DXF View
+![Board DXF](Board_dxf.png)
+
+---
+
+## Board Layout
+![Board Layout](Board_layout.png)
+
+---
+
+## Bottom Side of Board
+![Bottom Side of Board](Bottom_Side_of_Board.png)
+
+---
+
+## Final Board Design
+![Final Board Design](Final_Board_Design.png)
+
+---
+
+## Final Schematic Circuit
+![Final Schematic Circuit](Final_Schematic_Circuit.png)
 
 ---
 
@@ -61,9 +99,53 @@ Custom and third-party Eagle libraries were used to support the required compone
 ---
 
 ## Hardware Layout with Sections
-![Hardware Image with sections](Hardware%20Image%20with%20sections.png)
+![Hardware Image with Sections](Hardware%20Image%20with%20sections.png)
 
 ---
+
+## Motor Drive Circuit
+![Motor Drive Circuit](Motor_Drive_Circuit.png)
+
+---
+
+## Potentiometer Circuit
+![Potentiometer Circuit](Potentiometer_Circuit.png)
+
+---
+
+## Power LED Circuit
+![Power LED Circuit](Power_LED_Circuit.png)
+
+---
+
+## Power Supply Circuit
+![Power Supply Circuit](Power_Supply_Circuit.png)
+
+---
+
+## Programming & Debug Circuit
+![Programming Debug Circuit](Prog_Debug_Circuit.png)
+
+---
+
+## RGB LED Circuit
+![RGB Circuit](RGB_Circuit.png)
+
+---
+
+## Seven Segment Display Circuit
+![Seven Segment Display](Seven_Segment_Display_ckt.png)
+
+---
+
+## Switch Circuit
+![Switch Circuit](Switch_Circuit.png)
+
+---
+
+## Top Side of Board
+![Top Side of Board](Top_Side_of_Board.png)
+
 
 ## Deliverables
 - **Schematic file (.sch)**  
