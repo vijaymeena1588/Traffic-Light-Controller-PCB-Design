@@ -59,7 +59,8 @@ Custom and third-party Eagle libraries were used to support the required compone
 - [**PC_IC_L7805_TO252.lbr**](PC_IC_L7805_TO252.lbr) – 7805 voltage regulator (TO-252 package)  
 - [**PC_LED-7-SegmentDisplay.lbr**](PC_LED-7-SegmentDisplay.lbr) – 7-segment LED display  
 - [**PC_Resistor_0603.lbr**](PC_Resistor_0603.lbr) – SMD resistors (0603 package)  
-- [**PC_Switch_1437566-3.lbr**](PC_Switch_1437566-3.lbr) – Pushbutton switch  
+- [**PC_Switch_1437566-3.lbr**](PC_Switch_1437566-3.lbr) – Pushbutton switch
+- 
 # Traffic Light Controller PCB Design
 
 Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs, and a seven-segment countdown timer.
@@ -67,84 +68,122 @@ Developed a traffic signal controller using Atmega328P microcontroller, RGB LEDs
 ---
 
 ## Hardware Block Diagram
-![Hardware Block Diagram](Hardware%20Block%20Diagram.png)
+<p align="center">
+  <img src="Hardware%20Block%20Diagram.png" alt="Hardware Block Diagram" width="600"/>
+</p>
 
 ---
 
 ## Hardware Layout with Sections
-![Hardware Image with Sections](Hardware%20Image%20with%20sections.png)
+<p align="center">
+  <img src="Hardware%20Image%20with%20sections.png" alt="Hardware Layout with Sections" width="600"/>
+</p>
 
 ---
 
 ### Schematic Layout  
-![Schematic Layout](Schematic_Layout.png)  
+<p align="center">
+  <img src="Schematic_Layout.png" alt="Schematic Layout" width="600"/>
+</p>
 
 ---
 
 ## Power Supply Circuit
-![Power Supply Circuit](Power_Supply_Circuit.png)
+<p align="center">
+  <img src="Power_Supply_Circuit.png" alt="Power Supply Circuit" width="600"/>
+</p>
 
 ---
 
 ## Power LED Circuit
-![Power LED Circuit](Power_LED_Circuit.png)
+<p align="center">
+  <img src="Power_LED_Circuit.png" alt="Power LED Circuit" width="600"/>
+</p>
 
 ---
 
 ## Motor Drive Circuit
-![Motor Drive Circuit](Motor_Drive_Circuit.png)
+<p align="center">
+  <img src="Motor_Drive_Circuit.png" alt="Motor Drive Circuit" width="600"/>
+</p>
 
 ---
 
 ## Seven Segment Display Circuit
-![Seven Segment Display](Seven_Segment_Display_ckt.png)
+<p align="center">
+  <img src="Seven_Segment_Display_ckt.png" alt="Seven Segment Display Circuit" width="600"/>
+</p>
 
 ---
 
 ## ATmega328 MCU Circuit
-![Atmega328 MCU Circuit](Atmega328_mcu_Circuit.png)
+<p align="center">
+  <img src="Atmega328_mcu_Circuit.png" alt="ATmega328 MCU Circuit" width="600"/>
+</p>
 
 ---
 
 ## Programming & Debug Circuit
-![Programming Debug Circuit](Prog_Debug_Circuit.png)
+<p align="center">
+  <img src="Prog_Debug_Circuit.png" alt="Programming & Debug Circuit" width="600"/>
+</p>
 
 ---
 
 ## RGB LED Circuit
-![RGB Circuit](RGB_Circuit.png)
+<p align="center">
+  <img src="RGB_Circuit.png" alt="RGB LED Circuit" width="600"/>
+</p>
 
 ---
 
 ## Switch Circuit
-![Switch Circuit](Switch_Circuit.png)
+<p align="center">
+  <img src="Switch_Circuit.png" alt="Switch Circuit" width="600"/>
+</p>
 
 ---
 
 ## Potentiometer Circuit
-![Potentiometer Circuit](Potentiometer_Circuit.png)
+<p align="center">
+  <img src="Potentiometer_Circuit.png" alt="Potentiometer Circuit" width="600"/>
+</p>
 
 ---
 
 ## Final Schematic Circuit
-![Final Schematic Circuit](Final_Schematic_Circuit.png)
+<p align="center">
+  <img src="Final_Schematic_Circuit.png" alt="Final Schematic Circuit" width="600"/>
+</p>
 
 ---
 
 ## Board Layout
-![Board Layout](Board_layout.png)
+<p align="center">
+  <img src="Board_layout.png" alt="Board Layout" width="600"/>
+</p>
 
 ---
 
 ## Final Board Design
-![Final Board Design](Final_Board_Design.png)
+<p align="center">
+  <img src="Final_Board_Design.png" alt="Final Board Design" width="600"/>
+</p>
 
 ---
+
 ## Top Side of Board
-![Top Side of Board](Top_Side_of_Board.png)
+<p align="center">
+  <img src="Top_Side_of_Board.png" alt="Top Side of Board" width="600"/>
+</p>
+
 ---
+
 ## Bottom Side of Board
-![Bottom Side of Board](Bottom_Side_of_Board.png)
+<p align="center">
+  <img src="Bottom_Side_of_Board.png" alt="Bottom Side of Board" width="600"/>
+</p>
+
 ---
 
 ## Deliverables
